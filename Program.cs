@@ -34,6 +34,8 @@ namespace ItemsList
             public void displayMenu()
             {
                 List<Product> products = productsList();
+               
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("=====( Cat Food: )=====");
                 foreach(Product p in products)
                 {
@@ -55,6 +57,7 @@ namespace ItemsList
                 string operation = "";
                 do
                 {
+                    Console.ForegroundColor = ConsoleColor.Magenta;///
                     Console.WriteLine("Add a product \t Remove a product");
                     operation = Console.ReadLine();
                     if (operation.Equals("add"))
@@ -67,6 +70,7 @@ namespace ItemsList
                             if(id == p.id)
                             {
                                 cart.Add(p);
+                                Console.ForegroundColor = ConsoleColor.Green;///
                                 Console.WriteLine("Added!");
                                 break;
                             }
@@ -86,8 +90,10 @@ namespace ItemsList
                             {
                                 if (id == p.id)
                                 {
+                                    Console.ForegroundColor = ConsoleColor.Red;
                                     cart.Remove(p);
                                     Console.WriteLine("Removed!");
+                                    break;
                                 }
                             }
                         }
@@ -103,6 +109,7 @@ namespace ItemsList
             public void totalAmount(List<Product> cart)
             {
                 double total = 0;
+                Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("=====( Cart )=====");
                 foreach(var p in cart)
                 {
