@@ -1,0 +1,13 @@
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.AssemblyInfoInputs.cache
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.AssemblyInfo.cs
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.exe
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.deps.json
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.runtimeconfig.json
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.runtimeconfig.dev.json
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.dll
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\bin\Debug\netcoreapp3.1\ItemsList.pdb
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.dll
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.pdb
+C:\Users\hanan\Desktop\Lessons\WEEK4DAY2\ItemsList\ItemsList\obj\Debug\netcoreapp3.1\ItemsList.genruntimeconfig.cache
